@@ -12,8 +12,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.sourcey.materiallogindemo.fragment.PageMainActivity;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class LoginActivity extends AppCompatActivity {
     private static final String TAG = "LoginActivity";
@@ -51,6 +54,13 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+    @OnClick(R.id.btn_skip_login)
+    public void skipLogin() {
+        Log.d("Skip login", "PageMainActivity");
+        Intent i = new Intent(getApplicationContext(), PageMainActivity.class);
+        startActivity(i);
+        finish();
+    }
     public void login() {
         Log.d(TAG, "Login");
 
