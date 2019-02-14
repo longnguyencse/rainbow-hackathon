@@ -3,4 +3,35 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="place_1_name">Binh Tay Market</string>
+    <string name="place_1_description">Binh Tay Market, constructed by the French in the 1880s, is located in the centre of Vietnam’s largest Chinatown district...</string>
+
+    <string name="place_2_name">War Remnants Museum</string>
+    <string name="place_2_description">The War Remnants Museum is a sobering and unforgettable museum which details the effects of the 30 year long war between America and Vietnam...</string>
+
+    <string name="place_3_name">Cu Chi Tunnels</string>
+    <string name="place_3_description">This marvellous tourist attraction lets visitors experience what it must have been like for soldiers who used an extensive network of tunnels to move around undetected by their enemies...</string>
+
+    <string name="place_4_name">Cao Dai Temple</string>
+    <string name="place_4_description">Cao Dai Temple is the centre of the Cao Dai faith, a religion that has taken bits of Buddhism, Christianity, Islam, Taoism and Confucianism...</string>
+
+    <string name="place_5_name">Jade Emperor Pagoda</string>
+    <string name="place_5_description">Jade Emperor Pagoda is one of the most revered temples in Ho Chi Minh...</string>
+
+    <string name="place_6_name">Bitexco Tower and Sky Deck</string>
+    <string name="place_6_description">Bitexco Tower is an ultra modern office tower in Ho Chi Minh, with a characteristic oval extension which acts as a helicopter landing pad...</string>
+
+    <string name="place_7_name">Reunification Palace</string>
+    <string name="place_7_description">The centre of the allied command and the place where the North Vietnamese claimed victory in the American War, Reunification Palace has played its part in some incredible scenes...</string>
+
+    <string name="place_8_name">Ho Chi Minh Central Post Office</string>
+    <string name="place_8_description">The Central Post Office in Ho Chi Minh is a glorious example of French colonial architecture, perfectly preserved with as much style as when it first opened in 1891...</string>
+
+    <string name="place_9_name">Mariamman Hindu Temple</string>
+    <string name="place_9_description">Mariamman Hindu Temple is a beautiful example of the bright and vibrant architecture of Hindu places of worship...</string>
+
+    <string name="place_10_name">Notre Dame Cathedral</string>
+    <string name="place_10_description">Saigon Notre Dame Cathedral, built in the late 1880s by French colonists, is one of the few remaining strongholds of Catholicism in the largely Buddhist Vietnam...</string>
+
 </resources>

@@ -22,7 +22,8 @@ public class SampleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        return PageFragment.newInstance(position + 1);
+
+        return position == 1 ? LandmarkFragment.newInstance(position + 1) : PageFragment.newInstance(position + 1);
     }
 
     @Override
